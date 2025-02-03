@@ -20,3 +20,9 @@ I am currently pursuing my PhD in **Evolutionary Ecology**, focusing on plant-po
 - 📧 **Email**: adrigiaquinta@gmail.com
 
 ---
+
+## 🚧 **Coming Soon**
+
+I am currently polishing more files and projects. Stay tuned for updates as I continue to upload new content!
+
+---
