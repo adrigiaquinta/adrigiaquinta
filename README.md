@@ -16,7 +16,7 @@ I am currently pursuing my PhD in **Evolutionary Ecology**, focusing on plant-po
 
 ## 🔗 **Connect with me**
 
-- 💼 **LinkedIn**: [Link to your LinkedIn profile]
+- 💼 **LinkedIn**: https://www.linkedin.com/in/adriangiaquinta/
 - 📧 **Email**: adrigiaquinta@gmail.com
 
 ---
