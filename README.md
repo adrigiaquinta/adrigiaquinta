@@ -1,15 +1,15 @@
                                                 👋 Hi! I'm Adrián Giaquinta
                                                 
-🌱 **Biologist | PhD Candidate in Biological Sciences**
+🌱 **Biologist | Data scientist | PhD Candidate in Biological Sciences**
 
-I am currently pursuing my PhD in **Evolutionary Ecology**, focusing on plant-pollinator interactions. I am passionate about understanding how environmental changes affect these relationships and how we can conserve biodiversity.
+I am currently pursuing my PhD in **Evolutionary Ecology**, focusing on plant-pollinator interactions. I am passionate about understanding how these relationships affect in phenotipic traits and how we can conserve biodiversity.
 
 ---
 
 ## 📚 **Interests and Skills**
 
 - 🔬 **Research**: Evolutionary ecology, plant-pollinator interactions, environmental changes.
-- 📊 **Data analysis**: Experience with mixed models, machine learning, and multivariate analysis.
+- 📊 **Data analysis**: Experience with modeling, machine learning, and multivariate analysis.
 - 💻 **Tools**: Proficient in **R** and **Python**.
 
 ---
