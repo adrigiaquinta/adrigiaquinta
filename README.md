@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello! I'm Adrián Giaquinta 👋
 
-<!--
-**adrigiaquinta/adrigiaquinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Biologist | PhD Candidate in Biological Sciences**
 
-Here are some ideas to get you started:
+I am currently pursuing my PhD in **Evolutionary Ecology**, focusing on plant-pollinator interactions. I am passionate about understanding how environmental changes affect these relationships and how we can conserve biodiversity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 **Interests and Skills**
+
+- 🔬 **Research**: Evolutionary ecology, plant-pollinator interactions, environmental changes.
+- 📊 **Data analysis**: Experience with mixed models, machine learning, and multivariate analysis.
+- 💻 **Tools**: Proficient in **R** and **Python**.
+
+---
+
+## 🔗 **Connect with me**
+
+- 💼 **LinkedIn**: [Link to your LinkedIn profile]
+- 📧 **Email**: adrigiaquinta@gmail.com
+
+---
